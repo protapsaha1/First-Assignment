@@ -1,0 +1,17 @@
+h1{
+    background-color: gray;
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 5em;
+    border-radius: 3px;
+    border: 2px solid black;
+    border-style: dotted;
+}
+h4{
+    background-color: lightblue;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    border: 5px solid lightyellow;
+    text-align: center;
+
+}
